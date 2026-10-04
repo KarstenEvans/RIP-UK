@@ -326,3 +326,8 @@ All burial guidance must be sourced, nation-specific and reviewed. Do not improv
 - Clear affiliate/sponsored labels.
 - One primary book retailer initially: Bookshop.org UK.
 - Consider a "near the funeral" search and a separate "near me" search later.
+
+
+## Three-pass research completed (4 October 2026)
+
+Reviewed BBC Ghosts for warm character-led humour, RIP.ie/MuchLoved/ForeverMissed, culturally diverse mourning and remembrance, GEDCOM/GEDZIP/PAF, and free-first pre-built local photo restoration. Findings and source references: [RIP-UK-Research.md](RIP-UK-Research.md). Research does not establish that the features are implemented, families consulted or browsers tested.
