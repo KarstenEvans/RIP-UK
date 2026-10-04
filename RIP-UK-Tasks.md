@@ -20,7 +20,7 @@
 - [ ] Draft a non-stereotyping optional tradition questionnaire with reviewed source links per faith and geography.
 - [ ] Research free-first photo restoration/colourisation, pre-built cross-platform and web tools, Canva/CapCut trials, MyHeritage Deep Nostalgia historical context; privacy / authenticity disclosures and source originals.
 - [ ] Build contextual `RIP-UK-rsc.htm` with opt-in books, florists, family genealogy aids, grief resources, charity links, disclosure and no commercialization in tribute.
-- [ ] Pilot Dinesh Gohil *privately* pending family permission; do not publish photo, webcast credentials, household address or sensitive living-family details.
+- [ ] Pilot unapproved family test candidate *privately* pending family permission; do not publish photo, webcast credentials, household address or sensitive living-family details.
 - [ ] Run static, accessibility, mobile and true link validation; produce PASS/PARTIAL/FAIL evidence and human publishing gate.
 
 ## Recovered September checklist (historical, statuses require current verification)
