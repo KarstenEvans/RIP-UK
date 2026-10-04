@@ -613,3 +613,8 @@ These are starting points, not a substitute for nation-specific review.
 [R] Google Workspace and Manus may be worth reviewing separately later, but do not prioritise them for the first release.
 
 [ ] No AI-company affiliate work should block the main RIP UK site, Cloudflare deployment, memorial workflow, maps, registry or local-help search.
+
+
+## Three-pass research completed (4 October 2026)
+
+Reviewed BBC Ghosts for warm character-led humour, RIP.ie/MuchLoved/ForeverMissed, culturally diverse mourning and remembrance, GEDCOM/GEDZIP/PAF, and free-first pre-built local photo restoration. Findings and source references: [RIP-UK-Research.md](RIP-UK-Research.md). Research does not establish that the features are implemented, families consulted or browsers tested.
