@@ -2,10 +2,18 @@
 
 **Status:** editorial/product specification, 23 October 2026. **Canonical repository:** `KarstenEvans/RIP-UK`, not RIP-UK2. **Model:** RIP UK keeps the memory; the family keeps the memorial. **Existing source of truth:** [RIP-UK.md](RIP-UK.md), [RIP-UK-Tasks.md](RIP-UK-Tasks.md). Follow [Aletheia Protocol](https://github.com/KarstenEvans/aletheia-protocol) for provenance and optional [Thalia](https://github.com/KarstenEvans/thalia-protocol/blob/main/THALIA_PROTOCOL.md) for family-chosen respectful warmth and humour.
 
+## Updated hosting clarification (23 October 2026)
+
+**RIP UK may host the memorial Markdown itself.** This is an optional `Name.md` or `memorial.md` file consisting entirely of a name, short navigation headings, and outbound owner-approved links. A family may instead host that same portable Markdown on its own Drive, website or other service, and register only its URL with RIP UK. In both cases **photos, original letters, audio, videos and family-owned materials remain on external distributed hosting**; RIP UK neither embeds without permission nor republishes or stores their content.
+
+A memorial creator may use a life-map tree with thematic headings that are just pointers (Own Voice; Family Letters; Their Loves; Work and Causes; Gallery; Family History; Future Memories). Do not turn those headings into invented biographical claims. `Presley's Mental Health Mondays` is a real example of a project-specific branch, not a generic RIP UK brand or newly launched campaign.
+
+**General Mini-AI-me link:** propose a single optional, plainly labelled `Mini-AI-me` link under the existing RIP UK Resources/burger menu **only after locating the actual, live Aletheia Mini-AI-me destination and reviewing the original site source**. This opens a generic, user-controlled memory-assistant workflow; no persona or AI assets are hosted in the public memorial. Individual bespoke AI companions are private owner opt-in and require independent suitability/rights review. No navigation code change has yet been made.
+
 ## Two separate files, two different owners
 
-1. **RIP UK link registry:** optional public `Name.md` record containing **a name and approved URLs only**, with very short labels for navigation. This is not a copied obituary. A record may contain *only one link*. Do not ingest or reproduce the linked material.
-2. **Family memorial:** optional exportable `memorial.md` kept **by the person/family/author at a provider of their choosing** (Google Drive, Sites, OneDrive, YouTube, own website, etc.). It may include as many personally approved stories, media references, family-history links or documents as they choose. RIP UK may guide its creation but does not take ownership or persist a copy.
+1. **RIP UK link registry:** optional public `Name.md` or `memorial.md` record containing **a name and approved URLs only**, with very short labels for navigation. This is not a copied obituary. A record may contain *only one link*. Do not ingest or reproduce the linked material.
+2. **Family memorial:** optional exportable `memorial.md` kept **by the person/family/author at a provider of their choosing** (Google Drive, Sites, OneDrive, YouTube, own website, etc.). It may include as many personally approved stories, media references, family-history links or documents as they choose. RIP UK may guide its creation; any RIP-hosted file is an owner-approved, portable reference Markdown only, not a mirror of its linked media.
 
 If a family has only YouTube, an Instagram tribute or a Google Sites page, that is sufficient. They **do not need to produce an extra memorial document** to register a link. If they choose a Markdown life map, its authored copy resides with them.
 
