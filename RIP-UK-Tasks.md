@@ -1,5 +1,20 @@
 # RIP-UK-Tasks — implementation and research backlog
 
+## P1 — LINK-ONLY DISTRIBUTED MEMORIALS / OWNER APPROVAL (23 October 2026)
+
+- [x] Confirm RIP-UK as canonical, not RIP-UK2; restore family-hosted, link-only model from previous decisions.
+- [x] Record [distributed link-map specification](RIP-UK-Distributed-Link-Map.md) and an [unlisted Presley Walker Gerber source-link example](Presley-Walker-Gerber.md).
+- [ ] Recover and inspect original RIP UK preview / PC source before any site implementation.
+- [ ] Implement name + owner-approved public URL(s) as the minimum public register, with no media, family data or copied biographies.
+- [ ] Provide optional family-authored and family-hosted portable Markdown life map; link-only mode must work without it.
+- [ ] Distinguish link reachability from approval by the submitter/rights-holder; honour correction, moving links, withdrawals and privacy.
+- [ ] Identify verified original social/YouTube/podcast media for each memorial, label third-party mirrors and unavailable originals.
+- [ ] Do not list the Presley research example without family or approved representative opt-in.
+- [ ] Keep opt-in Mini-AI-me outreach/private files **out** of the public RIP registry.
+- [ ] Test Drive/OneDrive/YouTube/Instagram access and static/offline fallback; no automatic claims of working embeds.
+- [ ] Leave RIP-UK2 untouched except undoing the three Presley-pilot files mistakenly committed there on 23 October.
+
+
 **Canonical owner:** KarstenEvans/RIP-UK. **Snapshot:** 2026-10-04. **Status:** documentation specification; implementation and live deployment unverified.  
 **Technical contracts:** [Aletheia Protocol](https://github.com/KarstenEvans/aletheia-protocol) for evidence and provenance; [Thalia Protocol](https://github.com/KarstenEvans/thalia-protocol/blob/main/THALIA_PROTOCOL.md) as an optional tactful, human-appropriate humour companion. Generated memorial Markdown should include both references near its beginning (after YAML/title) but must not display technical branding prominently on public memorials.  
 **Shared development rules:** [Aletheia GUI](https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-GUI.md), [Aletheia development guide](https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-dev.md), and [Aletheia Improve](https://github.com/KarstenEvans/aletheia-app/blob/main/aletheia-improve/aletheia-improve.md).
